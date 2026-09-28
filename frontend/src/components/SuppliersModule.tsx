@@ -2,7 +2,8 @@ import React, { useState } from 'react';
 import { 
   Users, Search, Filter, Plus, ArrowLeft, Building2, Phone, MapPin, 
   FileText, ShieldAlert, BadgeCheck, Clock, TrendingUp, AlertCircle, CheckCircle2,
-  ChevronLeft, ChevronRight, XCircle, Trash2
+  ChevronLeft, ChevronRight, XCircle, Trash2,
+  Package, DollarSign
 } from 'lucide-react';
 import toast from 'react-hot-toast';
 
